@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "pusher-js": "^5.0.0",
+    "webpack": "^4.39.2"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.6"
+  }
+}
