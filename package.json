@@ -2,10 +2,10 @@
   "dependencies": {
     "pusher-js": "^5.0.0",
     "uglifyjs": "^2.4.11",
-    "webpack": "^4.39.2"
+    "webpack": "^5.75.0"
   },
   "devDependencies": {
-    "webpack-cli": "^3.3.6"
+    "webpack-cli": "^5.0.1"
   },
   "scripts": {
     "build": "npx webpack\nnpm run uglify",
